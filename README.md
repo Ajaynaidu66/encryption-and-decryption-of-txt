@@ -1,9 +1,3 @@
-Here's a **README.md** file for your **Text-Based Encryption & Decryption Tool** project.  
-
----
-
-### 📜 **README.md**
-```md
 # 🔐 Text-Based Encryption & Decryption Tool
 
 This is a simple Python-based tool that allows users to **encrypt and decrypt text** using the **Fernet encryption method** from the `cryptography` library.
@@ -14,7 +8,6 @@ This is a simple Python-based tool that allows users to **encrypt and decrypt te
 ✔ **Secret key mechanism** – Only users with the key can decrypt messages.  
 ✔ **Easy to use** with a simple menu-driven interface.  
 
----
 
 ## 🚀 Installation
 ### **1️⃣ Install Python Dependencies**
